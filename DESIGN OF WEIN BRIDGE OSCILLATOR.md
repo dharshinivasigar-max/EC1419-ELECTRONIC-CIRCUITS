@@ -14,7 +14,13 @@
 
 
 ## Graph
+
 <img width="1600" height="395" alt="image" src="https://github.com/user-attachments/assets/8e15189f-30b0-4653-8650-e0458fb463dc" />
+
+## CALCULATION
+
+<img width="1600" height="590" alt="image" src="https://github.com/user-attachments/assets/81ea31e7-cbd4-4e75-8a75-e0092560b1f3" />
+
 
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
 
