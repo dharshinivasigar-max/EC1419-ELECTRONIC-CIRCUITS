@@ -27,7 +27,9 @@
 ## Graph
 
 <img width="1600" height="413" alt="image" src="https://github.com/user-attachments/assets/2f6a9713-bd70-4d08-bb96-5ae5d81933e2" />
+
 ## CALCULATION
+
 <img width="1600" height="813" alt="image" src="https://github.com/user-attachments/assets/3aaf0528-5797-4180-9f66-ecc30e6b4705" />
 
 ## **Result**
